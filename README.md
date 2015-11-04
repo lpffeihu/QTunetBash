@@ -25,6 +25,12 @@ bash QTunetBash.sh -o
 
 本软件的使用风险与QTunet相同，请参考[QTunet的说明](https://github.com/lpffeihu/QTunet)。
 
+## 如果你是校内固定IP
+
+如果你是校内固定IP且是这个IP的所有者（即这个账号是用你的Tunet号申请的），你可以直接登录进Usereg，点“静态IP管理”，
+里边就能看到这个IP。在这种情况下你可以修改该IP的类型为“免认证”，[像这样](https://cloud.githubusercontent.com/assets/1330058/10931869/76b2fcd2-8306-11e5-9101-e0ff3efcd6fe.png)。
+
+此时貌似就不占Tunet三个连接数的限制了（可能当月不行，下月可以），[像这样](https://cloud.githubusercontent.com/assets/1330058/10931874/7aad0058-8306-11e5-80a7-ebaea1369168.png)。
 
 ## 关于作者
 
