@@ -2,6 +2,10 @@
 Bash版本的Tunet客户端，提供保持在线功能，
 与老版本的Shell兼容。
 
+网络访问使用的是Curl，你得有。
+
+在MAC、Linux和Windows-Git Bash测试过。
+
 ## 使用
 
 普通使用直接不加参数运行即可。
